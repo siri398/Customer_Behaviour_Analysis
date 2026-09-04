@@ -1,10 +1,12 @@
 # Customer_Behaviour_Analysis
 📌 Overview
+
 This project analyzes customer shopping behavior using Python, Pandas, and SQL. The objective is to clean and transform customer transaction data, perform exploratory analysis, answer business questions using SQL, and generate insights related to customer spending, products, discounts, subscriptions, and customer segments.
 
 The dataset contains 3,900 customer records and 18 original columns. After data transformation, additional features such as age_group and purchase_frequency_days were created, resulting in 19 columns.
 
 📊 Dataset
+
 The dataset contains information about:
 Customer ID
 Age
@@ -27,6 +29,7 @@ Frequency of Purchases
 The original dataset had 37 missing values in Review Rating. These were handled using the median review rating within each product category.
 
 🛠️ Tools & Technologies
+
 Python
 Pandas
 SQLite
